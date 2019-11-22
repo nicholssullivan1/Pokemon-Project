@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">14353b96db010010b26ffe1b6896199f</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-22 19:57:01</sys_created_on>
+        <sys_id>2034b599db550010b26ffe1b68961927</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Pokemon App" source="x_400610_pokemon_a">03b33d59db550010b26ffe1b6896197d</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-22 19:57:01</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
